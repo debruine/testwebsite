@@ -1,0 +1,15 @@
+name: "debruine"
+author: "Lisa DeBruine"
+output_dir: "docs"
+output:
+  html_document:
+    self_contained: no
+    css: style.css
+    theme: 
+      version: 4
+      bootswatch: paper
+navbar:
+  title: "Lisa DeBruine"
+  right:
+    - text: "CV"
+      href: cv.html

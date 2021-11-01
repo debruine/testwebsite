@@ -1,0 +1,17 @@
+---
+title: "Lisa DeBruine"
+---
+
+<img src="images/preview16.jpg" style="float: right; width: 50%;" />
+
+I am a postgraduate student at the University of Glasgow [School of Psychology and Neuroscience](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+
+My supervisor is Dr Emily Nordmann. My thesis topic is ...
+
+## Classes
+
+* Data Skills for Reproducible Research
+* Professional Skills
+
+
+
